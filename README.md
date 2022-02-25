@@ -6,7 +6,7 @@ Increases the graphics rendering speed of the game client from 30 to 60 frames p
 
 - **Name:** pkodev.mod.60fps;
 - **Version:** 1.0;
-- **Author:** V3ct0r;
+- **Authors:** V3ct0r, BotPRO;
 - **Type:** for client (Game.exe);
 - **Supported executable .exe files:** GAME_13X_0, GAME_13X_1, GAME_13X_2, GAME_13X_3, GAME_13X_4, GAME_13X_5.
 
